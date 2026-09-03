@@ -15,7 +15,7 @@ from payoff_engine import (
 
 
 st.set_page_config(
-    page_title="Options Payoff Visualiser",
+    page_title="Nathaniel's Options Payoff Visualiser",
     page_icon="📈",
     layout="wide",
 )
