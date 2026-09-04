@@ -161,7 +161,7 @@ with st.sidebar:
         "Strike price (A$)",
         min_value=0.01,
         value=160.00,
-        step=1.00,
+        step=0.50,
         format="%.2f",
     )
 
