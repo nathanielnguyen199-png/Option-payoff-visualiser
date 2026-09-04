@@ -125,7 +125,7 @@ def calculate_strategy_pnl(
     return total_pnl, legs, metrics, premium_label
 
 
-st.title("Options Payoff Visualiser")
+st.title("Nathaniel's Options Payoff Visualiser")
 st.caption(
     "Explore profit and loss at expiration. "
     "The starting inputs reproduce a Commonwealth Bank covered-call example."
